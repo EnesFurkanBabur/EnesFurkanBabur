@@ -1,5 +1,5 @@
 # About Me:
-I’m currently working on HTML, CSS, Javascript, Java, Laravel, .NET Core, Flutter
+I’m currently working on Node.js, Javascript, Java, Laravel, .NET Core, React.
 
 
 ## Socials:
